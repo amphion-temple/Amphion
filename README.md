@@ -1,4 +1,4 @@
-![image](https://ibb.co/SsJVDyz)
+![image]([https://i.ibb.co/C1WVp8f/Newbg.jpg)
 
 #### Amphion is the cryptocurrency that goes wherever you go!
 
