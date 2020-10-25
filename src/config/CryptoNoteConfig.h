@@ -375,7 +375,7 @@ namespace CryptoNote
     const uint64_t LEVELDB_MAX_OPEN_FILES = 128; // 128 files
     const uint64_t LEVELDB_MAX_FILE_SIZE_MB = 1024; // 1024MB = 1GB
 
-    const char LATEST_VERSION_URL[];
+    const char LATEST_VERSION_URL[] = "https://github.com/amphion-temple/Amphion/";
 
     const std::string LICENSE_URL = "https://github.com/amphion-temple/Amphion/blob/master/LICENSE";
 
@@ -386,5 +386,5 @@ namespace CryptoNote
   "157.230.81.88:36816", //Adam
   "104.131.70.136:36816", //Lilith
 }
-    };
+    ;}
 } // namespace Cryptonote
