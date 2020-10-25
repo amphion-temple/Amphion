@@ -1,8 +1,6 @@
-![image](https://st.depositphotos.com/1001267/4050/v/950/depositphotos_40502247-stock-illustration-stencil-of-lyre.jpg)
+![image](https://ibb.co/SsJVDyz)
 
 #### Amphion is the cryptocurrency that goes wherever you go!
-
-// [![Discord](https://img.shields.io/discord/388915017187328002?label=TurtleCoin%20Discord)](http://chat.turtlecoin.lol) [![GitHub All Releases](https://img.shields.io/github/downloads/turtlecoin/turtlecoin/total?label=Downloads)](http://latest.turtlecoin.lol) [![GitHub contributors](https://img.shields.io/github/contributors-anon/turtlecoin/turtlecoin?label=Contributors)](https://github.com/turtlecoin/turtlecoin/graphs/contributors) [![GitHub issues](https://img.shields.io/github/issues/turtlecoin/turtlecoin?label=Issues)](https://github.com/turtlecoin/turtlecoin/issues) ![GitHub stars](https://img.shields.io/github/stars/turtlecoin/turtlecoin?label=Github%20Stars)
 
 ### Contributing to Amphion
 
