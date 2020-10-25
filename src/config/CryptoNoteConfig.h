@@ -385,7 +385,7 @@ namespace CryptoNote
 
     const char *const SEED_NODES[] = {
   "157.230.81.88:36816", //Adam
-  "157.230.212.163:36816", //Lilith
+  "104.131.70.136:36816", //Lilith
 }
     };
 } // namespace Amphion
