@@ -1,6 +1,7 @@
 // Copyright (c) 2012-2017, The CryptoNote developers, The Bytecoin developers
 // Copyright (c) 2014-2018, The Monero Project
 // Copyright (c) 2018-2020, The TurtleCoin Developers
+// Copyright (c) 2020, The Amphion Developers
 //
 // Please see the included LICENSE file for more information.
 
@@ -30,7 +31,7 @@ namespace CryptoNote
 
         const uint64_t CRYPTONOTE_PUBLIC_ADDRESS_BASE58_PREFIX = 0x7549;
 
-        const uint32_t CRYPTONOTE_MINED_MONEY_UNLOCK_WINDOW = 40;
+        const uint32_t CRYPTONOTE_MINED_MONEY_UNLOCK_WINDOW = 1;
 
         const uint64_t CRYPTONOTE_BLOCK_FUTURE_TIME_LIMIT = 60 * 60 * 2;
 
@@ -49,13 +50,13 @@ namespace CryptoNote
 
         const size_t ZAWY_DIFFICULTY_V2 = 0;
 
-        const uint8_t ZAWY_DIFFICULTY_DIFFICULTY_BLOCK_VERSION = 3;
+        const uint8_t ZAWY_DIFFICULTY_DIFFICULTY_BLOCK_VERSION = 0;
 
         const uint64_t LWMA_2_DIFFICULTY_BLOCK_INDEX = 1;
 
-        const uint64_t LWMA_2_DIFFICULTY_BLOCK_INDEX_V2 = 700000;
+        const uint64_t LWMA_2_DIFFICULTY_BLOCK_INDEX_V2 = 2;
 
-        const uint64_t LWMA_2_DIFFICULTY_BLOCK_INDEX_V3 = 800000;
+        const uint64_t LWMA_2_DIFFICULTY_BLOCK_INDEX_V3 = 3;
 
         const unsigned EMISSION_SPEED_FACTOR = 17;
 
@@ -240,7 +241,7 @@ namespace CryptoNote
 
         const uint32_t UPGRADE_HEIGHT_V3 = 2;
 
-        const uint32_t UPGRADE_HEIGHT_V4 = 350000; // Upgrade height for CN-Lite Variant 1 switch.
+        const uint32_t UPGRADE_HEIGHT_V4 = 3; // Upgrade height for CN-Lite Variant 1 switch.
 
         const uint32_t UPGRADE_HEIGHT_V5 = 1200000; // Upgrade height for CN-Turtle Variant 2 switch.
 
@@ -381,7 +382,7 @@ namespace CryptoNote
     const std::string LICENSE_URL = "https://github.com/amphion-temple/Amphion/blob/master/LICENSE";
 
     const static boost::uuids::uuid CRYPTONOTE_NETWORK = {
-        {0x0X, 0xP3, 0xXQ, 0x07, 0xVV, 0xMC, 0xVB, 0xJT, 0xHT, 0xJM, 0x4V, 0xUP, 0x20, 0xGV, 0xC1, 0xDL}};
+        {0x0f, 0x1e, 0x2d, 0x3c, 0x2b, 0x1a, 0x9b, 0x8c, 0x7d, 0x6e, 0x5f, 0x4e, 0x3d, 0x2c, 0x1b, 0x0a}};
 
     const char *const SEED_NODES[] = {
   "157.230.81.88:36816", //Adam
